@@ -1,2 +1,2 @@
 # BoBo
-Battle Of Brains Origi
+Battle Of Brains Origin
